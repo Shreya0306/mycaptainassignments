@@ -10,16 +10,3 @@ mixed=["sreya",1,"b",{},(9,10)]
 print(fruits)
 print(num)
 print(mixed)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
